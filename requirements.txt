@@ -1,5 +1,6 @@
 voila
 fastai
+fastbook
 pillow
 packaging
 ipywidgets==7.5.1
